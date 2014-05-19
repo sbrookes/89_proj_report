@@ -1,0 +1,72 @@
+
+% report about elfbac and arm, scott brookes
+
+\documentclass{article}
+
+\usepackage{subcaption}
+\usepackage{fullpage}
+\usepackage{listings}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{dirtree}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{mdwlist}
+\usepackage{natbib}
+\usepackage{xcolor}
+\usepackage{float}
+
+\usepackage{hyperref}
+
+\setlength{\parskip}{3mm}
+
+\begin{document}
+
+\title{Learning the Structure of Local Neural Circuits in Mouse Ectorhinal Cortex}
+\author{Scott Brookes \& Derek Racine}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Introduction}
+The brain is structured such that local networks of neurons often perform 
+distinct, modular, tasks. For example, the ectorhinal cortex is known to 
+receive the majority of its input from visual sensory areas and is involved 
+with visual memory and object recognition. However, the network structure is 
+not well understood. Additionally, the effect of training an animal to 
+recognize specific images on the network has yet to be explored. In particular,
+one might hypothesize that this training might cause the neurons in the area to
+become tuned to images that the mouse has seen before, but not others. \par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   DATASET    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Dataset}
+
+We have obtained data sets corresponding to four recording sessions. The first 
+data set consists of activity of neurons in the primary visual cortex that are 
+well coordinated and known to respond to oriented gratings which are presented 
+to the mice during the session, and thus will be a useful control for testing 
+our methodology. The remaining data sets track the activity of neurons in the 
+ectorhinal cortex during period of no stimulus, new stimulus, and known 
+stimulus. Inferring both network structure and edge weights will allow us to 
+determine how the neurons react to new stimulus, and whether or not the 
+neurons become tuned to stimuli that the mouse has learned. \par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    METHOD    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Method}
+
+We propose to model the local neural circuits as a Bayesian network and infer 
+the edges from the correlations of the activity of individual neurons, which 
+we will treat as binary random variables – firing or not firing. In order to 
+learn the structure, we plan to discretize our continuous series into buckets 
+that each represent a single instance of the overall network. \par
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  EVALUATION  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Measuring Success}
+
+We expect that the model we learn on the first data set of highly correlated 
+activity in the primary visual cortex will align well with the theoretical 
+expectation. To clarify, we plan on using the same methods that we test on 
+this first data set in order to verify their correctness/applicability, on the 
+others. \par
+
+\end{document}
