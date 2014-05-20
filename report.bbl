@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen13}
+Tsai-Wen Chen and et~al.
+\newblock Ultrasensitive fluorescent proteins for imaging neuronal activity.
+\newblock {\em Nature}, 499.7458:295--300, 2013.
+
+\bibitem{mishchenko11}
+Yuriy Mishchenko, Joshua~T. Vogelstein, and Liam Paninski.
+\newblock A bayesian approach for inferring neuronal connectivity from calcium
+  fluorescent imaging data.
+\newblock {\em The Annals of Applied Statistics}, 5.2B:1229--1261, 2011.
+
+\end{thebibliography}

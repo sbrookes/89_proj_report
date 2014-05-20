@@ -33,14 +33,28 @@ The brain is structured such that local networks of neurons can perform
 distinct, modular, tasks. For example, the ectorhinal cortex is known to 
 receive the majority of its input from visual sensory areas and is involved 
 in visual memory and object recognition. However, the network structure is 
-not well understood. Training an animal to 
-recognize certain images, such as through visual paired-associate learning, might also affect the network dynamics. In particular,
-one might hypothesize that this training could cause neurons to
-become tuned to images that the mouse has seen before, but not others. That is, the activity of neurons would be well correlated with stimuli used during training. Yet, this relationship hasn't been explored. \par 
+not well understood. Training an animal to recognize certain images, such as 
+through visual paired-associate learning, might also affect the network 
+dynamics. In particular, one might hypothesize that this training could cause 
+neurons to become tuned to images that the mouse has seen before, but not 
+others. That is, the activity of neurons would be well correlated with 
+stimuli used during training. Yet, this relationship hasn't been 
+explored. \par 
 
-Simplified neurons can be described as being in one of two states: resting or firing. When a neuron fires, calcium ions flow into it from the extracellular fluid. As such, fluorescence observed from calcium sensors can serve as a proxy for neural activity. \par
+Simplified neurons can be described as being in one of two states: resting or 
+firing. When a neuron fires, calcium ions flow into it from the extracellular 
+fluid. As such, fluorescence observed from calcium sensors can serve as a 
+proxy for neural activity. \par
 
-The recent discovery of an ultrasensitive family of fluorescent calcium sensors has caused an explosion in the availability of time-series data based on the use of this technique [2]. Whereas previous recording methods were limited to only a few cells, fluorescent imaging techniques can measure the activity of an entire region of neurons simultaneously. This data offers an opportunity to learn the structure of local neural circuits through statistical methods. Indeed, previous work has addressed this problem by modeling fluorescent imaging data as a collection of coupled Hidden Markov chains, one for each neuron [1]. \par
+The recent discovery of an ultrasensitive family of fluorescent calcium 
+sensors has caused an explosion in the availability of time-series data based 
+on the use of this technique.\cite{chen13} Whereas previous recording methods 
+were limited to only a few cells, fluorescent imaging techniques can measure 
+the activity of an entire region of neurons simultaneously. This data offers 
+an opportunity to learn the structure of local neural circuits through 
+statistical methods. Indeed, previous work has addressed this problem by 
+modeling fluorescent imaging data as a collection of coupled Hidden Markov 
+chains, one for each neuron.\cite{mishchenko11} \par
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   DATASET    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Dataset}
@@ -73,9 +87,12 @@ expectation. To clarify, we plan on using the same methods that we test on
 this first data set in order to verify their correctness/applicability, on the 
 others. \par
 
-\section*{References}
-[1] Mishchenko, Yuriy, Joshua T. Vogelstein, and Liam Paninski. "A Bayesian approach for inferring neuronal connectivity from calcium fluorescent imaging data." The Annals of Applied Statistics 5.2B (2011): 1229-1261.
+\bibliographystyle{plain}
+\bibliography{bibliography}
 
-[2] Chen, Tsai-Wen, et al. "Ultrasensitive fluorescent proteins for imaging neuronal activity." Nature 499.7458 (2013): 295-300.
+%\section*{References}
+%[1] Mishchenko, Yuriy, Joshua T. Vogelstein, and Liam Paninski. "A Bayesian approach for inferring neuronal connectivity from calcium fluorescent imaging data." The Annals of Applied Statistics 5.2B (2011): 1229-1261.
+
+%[2] Chen, Tsai-Wen, et al. "Ultrasensitive fluorescent proteins for imaging neuronal activity." Nature 499.7458 (2013): 295-300.
 
 \end{document}
