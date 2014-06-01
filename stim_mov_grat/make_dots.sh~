@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for file in ./*9.txt
+do
+  dot -Tpdf "$file" -o "${file%%.txt}.pdf"
+done
