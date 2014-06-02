@@ -11,4 +11,16 @@ Yuriy Mishchenko, Joshua~T. Vogelstein, and Liam Paninski.
   fluorescent imaging data.
 \newblock {\em The Annals of Applied Statistics}, 5.2B:1229--1261, 2011.
 
+\bibitem{globalmit}
+N.~X. Vinh, Coppel~R. Chetty, M., and P.~P. Wangikar.
+\newblock Globalmit: Learning globally optimal dynamic bayesian network with
+  the mutual information test (mit) criterion
+  doi:10.1093/bioinformatics/btr457, 2011.
+
+\bibitem{vinh11}
+N.~X. Vinh, Coppel~R. Chetty, M., and P.~P. Wangikar.
+\newblock Polynomial time algorithm for learning globally optimal dynamic
+  bayesian network.
+\newblock {\em Neural Information Processing}, pages 719--729, 2011.
+
 \end{thebibliography}
