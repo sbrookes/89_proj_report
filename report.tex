@@ -44,7 +44,7 @@
 
 \title{Learning the Structure of Local Neural Circuits in Mouse Ectorhinal Cortex}
 \author{Scott Brookes and Derek Racine}
-\date{May 19, 2014}
+\date{June 1, 2014}
 
 \begin{document}
 
@@ -124,10 +124,10 @@ activity and the display of specific stimuli. \par
 \end{figure}
 
 The remaining data sets track the activity of neurons in the ectorhinal cortex 
-during periods of spontaneous activity and the display of novel stimuli. 
+during periods of spontaneous activity and the display of novel looming object stimuli. 
 Inferring network structure for these time series will allow us to investigate 
 the difference between the correlation neurons exhibit during spontaneous 
-activity versus when a stimulus is present. \par
+activity versus when a stimulus is present. Additionally, the results will set the stage for future research after the mouse has been trained to perform a visual association task. \par
 
 \subsection{Pre-Processing}
 \label{sec:data}
@@ -181,16 +181,15 @@ is illustrated in Figure \ref{fig:spikes}.
 In order to deal with multiple presentations of the same stimuli throughout 
 the recording session (10 of each) as well as sparse stimulus presentations 
 (about 25 frames per stimulus presentation), we averaged the values for the 
-frames during the presentation of the stimulus and some number of frames 
-afterwards (until a new stimulus was shown) across the 10 instances of the 
-same stimulus throughout the recording session. \par
+frames during the presentation of the stimulus and the same number of frames 
+afterwards (before a new stimulus was shown) across all instances. \par
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    METHOD    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Method}
 
-We modelled the local neural circuits as a Bayesian network and infered 
+We modelled the local neural circuits as a Bayesian network and inferred 
 the edges from the correlations of the activity of individual neurons, which 
-we treated as binary random variables --– firing or not firing. In order to 
+we treated as binary random variables—firing or not firing. In order to 
 learn the structure, we discretized our continuous series into buckets 
 that each represent a single instance of the overall network. \par
 
@@ -419,7 +418,7 @@ areas of the brain can be made reliably. \par
     \hline 
   \end{tabular}
 
-  \caption{Precision and Recall Values for Looming Object Stimuli}
+  \caption{Precision and Recall Values for Moving Gratings Stimuli in V1}
   \label{tab:precision_recall}
 \end{table}
 
@@ -519,7 +518,7 @@ which looming objects were presented, as shown in Table \ref{tab:degrees}.\par
     \hline
   \end{tabular}
 
-  \caption{Average Out Degree of Source Node in the Primary Visual and Ectorhinal (EC) Cortexes}
+  \caption{Average Out Degree of Source Node in the Primary Visual and Ectorhinal (EC) Cortices}
   \label{tab:degrees}
 \end{table}
 
@@ -535,9 +534,9 @@ successful look into the neural clustering in the ectorhinal cortex.\par
 With more time, we would suggest a few different ways to take this work even 
 further.\par
 
-First, we could tune the hyperparameter $\alpha$. This parameter encodes the 
-degree to which the algorithm is going to penalize complexity. We chose a 
-parameter based primarily on runtime. It is possible that a more closely tuned 
+First, we could more precisely tune the hyperparameter $\alpha$. This parameter encodes the 
+degree to which the algorithm penalizes complexity. We chose a 
+parameter based primarily on runtime. It is possible that a different 
 $\alpha$ could lead to better results. \par
 
 Additionally, we would have liked to get our hands on a dataset from a third 
@@ -545,7 +544,7 @@ recording session in the ectorhinal cortex. The two that we processed were
 spontaneous activity and during the presentation of novel stimuli. We think 
 that it would be interesting to examine the response of the same neurons 
 during the presentation of learned stimuli. As explained in our introduction, 
-we could hypothesize that the neurons would become tuned as stimuli are 
+we might hypothesize that the neurons would become tuned as stimuli are 
 learned. We think that our work could be the starting point for exploring that 
 hypothesis. \par
 
@@ -589,19 +588,19 @@ influence on the stimulus, so we had to modify our model after the fact to
 encode this knowledge. We also colored the source node red for the sake of 
 clarity. \par
 
-Graphs labeled ``Moving Grating Stimulus'' correspond to measurements in the 
+Graphs labeled "Moving Grating Stimulus'' correspond to measurements in the 
 primary visual cortex (V1) in response to gratings at specific orientations 
-being presented to the mouse. These were our baseline --- we knew what we 
+being presented to the mouse. These were our baseline—we knew what we 
 expected to see from this data, so we used it to validate the performance of 
 our methodology. Stimuli 1 through 16 correspond to gratings at different 
 angles. \par
 
-Graphs labeled ``BL Looming Object'' correspond to measurements in the 
-ectorhinal cortex without the prescence of a stimulus, random activity. These 
+Graphs labeled "BL Looming Object'' correspond to measurements in the 
+ectorhinal cortex without the presence of a stimulus, i.e. random activity. These data
 allowed for us to measure the effect of a looming object stimulus on the 
-neural activity in the region compared to random activity. \par
+neural activity in the region compared to spontaneous activity. \par
 
-Graphs labeled ``Looming Object'' correspond to measurements in the ectorhinal 
+Graphs labeled "Looming Object'' correspond to measurements in the ectorhinal 
 cortex during the presentation of novel stimuli. This was the dataset that we 
 were most interested in exploring. Stimuli 1 through 16 correspond to stimuli  
 of different shapes. \par

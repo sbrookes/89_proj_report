@@ -1,14 +1,21 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  1 JUN 2014 22:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.22)  1 JUN 2014 23:43
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **report.tex
-(./report.tex
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.tex"
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,17 +30,17 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/subcaption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
@@ -50,46 +57,46 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \c@subfigure=\count88
 \c@subtable=\count89
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
 \XKV@depth=\count90
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/trimclip.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
@@ -97,7 +104,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen110
 \Gin@req@width=\dimen111
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/collectbox/collectbox.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box26
 )
@@ -107,7 +114,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen115
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen116
@@ -115,22 +122,22 @@ File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 \adjbox@Depth=\dimen118
 \adjbox@Totalheight=\dimen119
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
 Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
 \c@checkoddpage=\count92
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/varwidth/varwidth.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box27
 \sift@deathcycles=\count93
 \@vwid@loff=\dimen120
 \@vwid@roff=\dimen121
 ))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/preprint/fullpage.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip43
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count94
 \lst@gtempboxa=\box28
 \lst@token=\toks17
@@ -144,28 +151,28 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 \lst@lineno=\count99
 \lst@maxwidth=\dimen125
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 \c@lstnumber=\count100
 \lst@skipnumbers=\count101
 \lst@framebox=\box29
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2007/02/22 1.4 listings configuration
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
 ))
-Package: listings 2007/02/22 1.4 (Carsten Heinz)
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip44
 \bibsep=\skip45
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count102
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -179,7 +186,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count103
 \float@exts=\toks18
@@ -187,16 +194,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box31
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -227,7 +234,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -235,25 +242,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen126
 \Hy@linkcounter=\count104
 \Hy@pagecounter=\count105
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count106
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -265,9 +272,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count107
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen127
@@ -290,27 +297,25 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count112
 \c@bookmark@seq@number=\count113
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 )
-(./report.aux)
-\openout1 = `report.aux'.
-
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
@@ -331,7 +336,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen130
@@ -344,29 +349,14 @@ Package caption Info: End \AtBeginDocument code.
 \MPnumerator=\count118
 \makeMPintoPDFobject=\count119
 \everyMPtoPDFconversion=\toks21
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 \c@lstlisting=\count120
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring OFF on input line 49.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count121
@@ -375,27 +365,26 @@ LaTeX Info: Redefining \ref on input line 49.
 LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
 
-(./report.out) (./report.out)
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.out")
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.out")
 \@outlinefile=\write3
-\openout3 = `report.out'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 52.
- <neurons.png, id=55, 1003.75pt x 689.57625pt>
-File: neurons.png Graphic file (type png)
 
-<use neurons.png>
+<neurons.png, id=54, 1003.75pt x 689.57625pt>
+File: neurons.png Graphic file (type png)
+ <use neurons.png>
 Package pdftex.def Info: neurons.png used on input line 85.
 (pdftex.def)             Requested size: 234.8775pt x 161.35597pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<looming.png, id=58, 706.89093pt x 410.2828pt>
+<looming.png, id=57, 706.89093pt x 410.2828pt>
 File: looming.png Graphic file (type png)
  <use looming.png>
 Package pdftex.def Info: looming.png used on input line 112.
@@ -405,7 +394,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 115.
 
-<moving_gratings.pdf, id=60, 459.7175pt x 362.35374pt>
+<moving_gratings.pdf, id=59, 459.7175pt x 362.35374pt>
 File: moving_gratings.pdf Graphic file (type pdf)
 
 <use moving_gratings.pdf>
@@ -413,22 +402,24 @@ Package pdftex.def Info: moving_gratings.pdf used on input line 118.
 (pdftex.def)             Requested size: 211.38832pt x 166.6184pt.
  [1
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <neural
-_activity.pdf, id=77, 408.52625pt x 307.1475pt>
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] <neural_activity.pdf, id=
+76, 408.52625pt x 307.1475pt>
 File: neural_activity.pdf Graphic file (type pdf)
 
 <use neural_activity.pdf>
 Package pdftex.def Info: neural_activity.pdf used on input line 151.
 (pdftex.def)             Requested size: 211.38832pt x 158.93025pt.
 
-<smooth_neural_activity.pdf, id=78, 408.52625pt x 307.1475pt>
+<smooth_neural_activity.pdf, id=77, 408.52625pt x 307.1475pt>
 File: smooth_neural_activity.pdf Graphic file (type pdf)
 
 <use smooth_neural_activity.pdf>
 Package pdftex.def Info: smooth_neural_activity.pdf used on input line 157.
 (pdftex.def)             Requested size: 211.38832pt x 158.93025pt.
- [2 <./neurons.png> <./looming.png> <./moving_gratings.pdf>] <detecting_spikes.
-pdf, id=102, 719.68875pt x 297.11pt>
+ [2 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/neurons.png> <C:/
+Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming.png> <C:/Users/De
+rek R. Racine/Documents/GitHub/89_proj_report/moving_gratings.pdf>] <detecting_
+spikes.pdf, id=100, 719.68875pt x 297.11pt>
 File: detecting_spikes.pdf Graphic file (type pdf)
 
 <use detecting_spikes.pdf>
@@ -436,648 +427,718 @@ Package pdftex.def Info: detecting_spikes.pdf used on input line 176.
 (pdftex.def)             Requested size: 422.77664pt x 174.5408pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
- [3 <./neural_activity.pdf> <./smooth_neural_activity.pdf> <./detecting_spikes.
-pdf>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 200.
+Missing character: There is no ” in font cmr10!
+ [3 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/neural_activity.p
+df> <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/smooth_neural_act
+ivity.pdf> <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/detecting_
+spikes.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 199.
 
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 200.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 199.
 
-<toy1.pdf, id=157, 152.57pt x 356.33125pt>
+<toy1.pdf, id=156, 152.57pt x 356.33125pt>
 File: toy1.pdf Graphic file (type pdf)
  <use toy1.pdf>
-Package pdftex.def Info: toy1.pdf used on input line 262.
+Package pdftex.def Info: toy1.pdf used on input line 261.
 (pdftex.def)             Requested size: 117.43875pt x 274.28891pt.
 
-<toy2.pdf, id=158, 279.0425pt x 211.79124pt>
+<toy2.pdf, id=157, 279.0425pt x 211.79124pt>
 File: toy2.pdf Graphic file (type pdf)
  <use toy2.pdf>
-Package pdftex.def Info: toy2.pdf used on input line 268.
+Package pdftex.def Info: toy2.pdf used on input line 267.
 (pdftex.def)             Requested size: 234.8775pt x 178.27507pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] (./fail.c
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
-) (./win.c
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 2.
+[4]
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
-)
+! Package Listings Error: File `fail(.c)' not found.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: c)
 
-[5 <./toy1.pdf> <./toy2.pdf
+Enter file name: 
+! Undefined control sequence.
+\\lst@inputlisting ...}}\reserved@a }\lst@doendpe 
+                                                  \@newlistfalse \ignorespaces 
+l.315 ...inputlisting[caption=,language=C]{fail.c}
+                                                  }
+? 
 
-pdfTeX warning: pdflatex (file ./toy2.pdf): PDF inclusion: multiple pdfs with p
-age group included in a single page
->] <v1_clusters.pdf, id=199, 588.62868pt x 594.52736pt>
+! Package Listings Error: File `win(.c)' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: c)
+
+Enter file name: 
+! Undefined control sequence.
+\\lst@inputlisting ...}}\reserved@a }\lst@doendpe 
+                                                  \@newlistfalse \ignorespaces 
+l.321 ...tinputlisting[caption=,language=C]{win.c}
+                                                  }
+? 
+[5 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/toy1.pdf> <C:/User
+s/Derek R. Racine/Documents/GitHub/89_proj_report/toy2.pdf
+
+pdfTeX warning: miktex-pdftex.exe (file C:/Users/Derek R. Racine/Documents/GitH
+ub/89_proj_report/toy2.pdf): PDF inclusion: multiple pdfs with page group inclu
+ded in a single page
+>] <v1_clusters.pdf, id=197, 588.62868pt x 594.52736pt>
 File: v1_clusters.pdf Graphic file (type pdf)
  <use v1_clusters.pdf>
-Package pdftex.def Info: v1_clusters.pdf used on input line 354.
+Package pdftex.def Info: v1_clusters.pdf used on input line 353.
 (pdftex.def)             Requested size: 234.8775pt x 237.22614pt.
 
-[6 <./v1_clusters.pdf>]
-<V1NeuronTuningCurve.pdf, id=240, 380.54941pt x 301.3952pt>
+[6 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/v1_clusters.pdf>]
+<V1NeuronTuningCurve.pdf, id=227, 380.54941pt x 301.3952pt>
 File: V1NeuronTuningCurve.pdf Graphic file (type pdf)
 
 <use V1NeuronTuningCurve.pdf>
-Package pdftex.def Info: V1NeuronTuningCurve.pdf used on input line 405.
+Package pdftex.def Info: V1NeuronTuningCurve.pdf used on input line 404.
 (pdftex.def)             Requested size: 234.8775pt x 186.02148pt.
 
-<spont_act_cluster.pdf, id=243, 614.295pt x 794.97pt>
+<spont_act_cluster.pdf, id=230, 614.295pt x 794.97pt>
 File: spont_act_cluster.pdf Graphic file (type pdf)
 
 <use spont_act_cluster.pdf>
-Package pdftex.def Info: spont_act_cluster.pdf used on input line 446.
+Package pdftex.def Info: spont_act_cluster.pdf used on input line 445.
 (pdftex.def)             Requested size: 140.92793pt x 182.3783pt.
 
-<loom_obj_clusters.pdf, id=244, 614.295pt x 794.97pt>
+<loom_obj_clusters.pdf, id=231, 614.295pt x 794.97pt>
 File: loom_obj_clusters.pdf Graphic file (type pdf)
 
 <use loom_obj_clusters.pdf>
-Package pdftex.def Info: loom_obj_clusters.pdf used on input line 452.
+Package pdftex.def Info: loom_obj_clusters.pdf used on input line 451.
 (pdftex.def)             Requested size: 140.92793pt x 182.3783pt.
- [7 <./V1NeuronTuningCurve.pdf>]
-<ECNeuronTuningCurve_LoomObj.pdf, id=274, 372.84296pt x 301.18082pt>
+ [7 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/V1NeuronTuningCur
+ve.pdf>]
+<ECNeuronTuningCurve_LoomObj.pdf, id=262, 372.84296pt x 301.18082pt>
 File: ECNeuronTuningCurve_LoomObj.pdf Graphic file (type pdf)
 
 <use ECNeuronTuningCurve_LoomObj.pdf>
-Package pdftex.def Info: ECNeuronTuningCurve_LoomObj.pdf used on input line 492
+Package pdftex.def Info: ECNeuronTuningCurve_LoomObj.pdf used on input line 491
 .
 (pdftex.def)             Requested size: 211.38832pt x 170.7603pt.
 
-<ECNeuronTuningCurve_Spont.pdf, id=275, 379.70679pt x 302.93756pt>
+<ECNeuronTuningCurve_Spont.pdf, id=263, 379.70679pt x 302.93756pt>
 File: ECNeuronTuningCurve_Spont.pdf Graphic file (type pdf)
 
 <use ECNeuronTuningCurve_Spont.pdf>
-Package pdftex.def Info: ECNeuronTuningCurve_Spont.pdf used on input line 498.
+Package pdftex.def Info: ECNeuronTuningCurve_Spont.pdf used on input line 497.
 (pdftex.def)             Requested size: 211.38832pt x 168.65004pt.
- [8 <./spont_act_cluster.pdf> <./loom_obj_clusters.pdf> <./ECNeuronTuningCurve_
-LoomObj.pdf> <./ECNeuronTuningCurve_Spont.pdf>] (./report.bbl [9]) [10] [11]
-<stim_mov_grat/stim1_pp.pdf, id=365, 527.9725pt x 862.22125pt>
+ [8 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/spont_act_cluster
+.pdf> <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/loom_obj_cluste
+rs.pdf> <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/ECNeuronTunin
+gCurve_LoomObj.pdf> <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/E
+CNeuronTuningCurve_Spont.pdf>]
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.bbl" [9])
+[10]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [11] <stim_mov_grat/stim1_pp.pdf, id=352, 527.9725pt x 862.22125pt>
 File: stim_mov_grat/stim1_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim1_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim1_pp.pdf used on input line 612.
+Package pdftex.def Info: stim_mov_grat/stim1_pp.pdf used on input line 611.
 (pdftex.def)             Requested size: 527.9712pt x 862.21915pt.
- [12 <./stim_mov_grat/stim1_pp.pdf>]
-<stim_mov_grat/stim2_pp.pdf, id=379, 831.105pt x 862.22125pt>
+ [12 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im1_pp.pdf>]
+<stim_mov_grat/stim2_pp.pdf, id=366, 831.105pt x 862.22125pt>
 File: stim_mov_grat/stim2_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim2_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim2_pp.pdf used on input line 615.
+Package pdftex.def Info: stim_mov_grat/stim2_pp.pdf used on input line 614.
 (pdftex.def)             Requested size: 831.10297pt x 862.21915pt.
 
-Overfull \hbox (15.01057pt too wide) in paragraph at lines 615--616
+Overfull \hbox (15.01057pt too wide) in paragraph at lines 614--615
 [][] 
  []
 
-[13 <./stim_mov_grat/stim2_pp.pdf>]
-<stim_mov_grat/stim3_pp.pdf, id=394, 642.4pt x 1440.38126pt>
+[13 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m2_pp.pdf>] <stim_mov_grat/stim3_pp.pdf, id=381, 642.4pt x 1440.38126pt>
 File: stim_mov_grat/stim3_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim3_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim3_pp.pdf used on input line 618.
+Package pdftex.def Info: stim_mov_grat/stim3_pp.pdf used on input line 617.
 (pdftex.def)             Requested size: 642.39844pt x 1440.37775pt.
- [14 <./stim_mov_grat/stim3_pp.pdf>]
-<stim_mov_grat/stim4_pp.pdf, id=408, 1207.51125pt x 1368.11125pt>
+ [14 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im3_pp.pdf>]
+<stim_mov_grat/stim4_pp.pdf, id=395, 1207.51125pt x 1368.11125pt>
 File: stim_mov_grat/stim4_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim4_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim4_pp.pdf used on input line 621.
+Package pdftex.def Info: stim_mov_grat/stim4_pp.pdf used on input line 620.
 (pdftex.def)             Requested size: 1207.5083pt x 1368.10793pt.
 
-Overfull \hbox (15.01414pt too wide) in paragraph at lines 621--622
+Overfull \hbox (15.01414pt too wide) in paragraph at lines 620--621
 [][] 
  []
 
-[15 <./stim_mov_grat/stim4_pp.pdf>]
-<stim_mov_grat/stim5_pp.pdf, id=423, 812.03375pt x 1151.30125pt>
+[15 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m4_pp.pdf>] <stim_mov_grat/stim5_pp.pdf, id=409, 812.03375pt x 1151.30125pt>
 File: stim_mov_grat/stim5_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim5_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim5_pp.pdf used on input line 624.
+Package pdftex.def Info: stim_mov_grat/stim5_pp.pdf used on input line 623.
 (pdftex.def)             Requested size: 812.03177pt x 1151.29846pt.
- [16 <./stim_mov_grat/stim5_pp.pdf>]
-<stim_mov_grat/stim6_pp.pdf, id=437, 646.415pt x 1223.57124pt>
+ [16 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im5_pp.pdf>]
+<stim_mov_grat/stim6_pp.pdf, id=423, 646.415pt x 1223.57124pt>
 File: stim_mov_grat/stim6_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim6_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim6_pp.pdf used on input line 627.
+Package pdftex.def Info: stim_mov_grat/stim6_pp.pdf used on input line 626.
 (pdftex.def)             Requested size: 646.41342pt x 1223.56827pt.
- [17 <./stim_mov_grat/stim6_pp.pdf>]
-<stim_mov_grat/stim7_pp.pdf, id=451, 621.32124pt x 1223.57124pt>
+ [17 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im6_pp.pdf>]
+<stim_mov_grat/stim7_pp.pdf, id=437, 621.32124pt x 1223.57124pt>
 File: stim_mov_grat/stim7_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim7_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim7_pp.pdf used on input line 630.
+Package pdftex.def Info: stim_mov_grat/stim7_pp.pdf used on input line 629.
 (pdftex.def)             Requested size: 621.31973pt x 1223.56827pt.
- [18 <./stim_mov_grat/stim7_pp.pdf>]
-<stim_mov_grat/stim8_pp.pdf, id=465, 590.205pt x 573.14125pt>
+ [18 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im7_pp.pdf>]
+<stim_mov_grat/stim8_pp.pdf, id=451, 590.205pt x 573.14125pt>
 File: stim_mov_grat/stim8_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim8_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim8_pp.pdf used on input line 633.
+Package pdftex.def Info: stim_mov_grat/stim8_pp.pdf used on input line 632.
 (pdftex.def)             Requested size: 590.20355pt x 573.13985pt.
 
-Overfull \hbox (15.00507pt too wide) in paragraph at lines 633--634
+Overfull \hbox (15.00507pt too wide) in paragraph at lines 632--633
 [][] 
  []
 
-[19 <./stim_mov_grat/stim8_pp.pdf>]
-<stim_mov_grat/stim9_pp.pdf, id=480, 588.1975pt x 573.14125pt>
+[19 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m8_pp.pdf>] <stim_mov_grat/stim9_pp.pdf, id=466, 588.1975pt x 573.14125pt>
 File: stim_mov_grat/stim9_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim9_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim9_pp.pdf used on input line 636.
+Package pdftex.def Info: stim_mov_grat/stim9_pp.pdf used on input line 635.
 (pdftex.def)             Requested size: 588.19606pt x 573.13985pt.
 
-Overfull \hbox (15.00482pt too wide) in paragraph at lines 636--637
+Overfull \hbox (15.00482pt too wide) in paragraph at lines 635--636
 [][] 
  []
 
-[20 <./stim_mov_grat/stim9_pp.pdf>]
-<stim_mov_grat/stim10_pp.pdf, id=494, 461.725pt x 717.68124pt>
+[20 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m9_pp.pdf>] <stim_mov_grat/stim10_pp.pdf, id=480, 461.725pt x 717.68124pt>
 File: stim_mov_grat/stim10_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim10_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim10_pp.pdf used on input line 639.
+Package pdftex.def Info: stim_mov_grat/stim10_pp.pdf used on input line 638.
 (pdftex.def)             Requested size: 461.72388pt x 717.67949pt.
- [21 <./stim_mov_grat/stim10_pp.pdf>]
-<stim_mov_grat/stim11_pp.pdf, id=508, 499.8675pt x 1006.76125pt>
+ [21 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im10_pp.pdf>]
+<stim_mov_grat/stim11_pp.pdf, id=494, 499.8675pt x 1006.76125pt>
 File: stim_mov_grat/stim11_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim11_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim11_pp.pdf used on input line 642.
+Package pdftex.def Info: stim_mov_grat/stim11_pp.pdf used on input line 641.
 (pdftex.def)             Requested size: 499.86627pt x 1006.75879pt.
- [22 <./stim_mov_grat/stim11_pp.pdf>]
-<stim_mov_grat/stim12_pp.pdf, id=522, 792.9625pt x 1223.57124pt>
+ [22 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im11_pp.pdf>]
+<stim_mov_grat/stim12_pp.pdf, id=508, 792.9625pt x 1223.57124pt>
 File: stim_mov_grat/stim12_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim12_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim12_pp.pdf used on input line 645.
+Package pdftex.def Info: stim_mov_grat/stim12_pp.pdf used on input line 644.
 (pdftex.def)             Requested size: 792.96056pt x 1223.56827pt.
- [23 <./stim_mov_grat/stim12_pp.pdf>]
-<stim_mov_grat/stim13_pp.pdf, id=536, 714.67pt x 1006.76125pt>
+ [23 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im12_pp.pdf>]
+<stim_mov_grat/stim13_pp.pdf, id=522, 714.67pt x 1006.76125pt>
 File: stim_mov_grat/stim13_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim13_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim13_pp.pdf used on input line 648.
+Package pdftex.def Info: stim_mov_grat/stim13_pp.pdf used on input line 647.
 (pdftex.def)             Requested size: 714.66824pt x 1006.75879pt.
- [24 <./stim_mov_grat/stim13_pp.pdf>]
-<stim_mov_grat/stim14_pp.pdf, id=550, 754.82pt x 1079.03125pt>
+ [24 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im13_pp.pdf>]
+<stim_mov_grat/stim14_pp.pdf, id=536, 754.82pt x 1079.03125pt>
 File: stim_mov_grat/stim14_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim14_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim14_pp.pdf used on input line 651.
+Package pdftex.def Info: stim_mov_grat/stim14_pp.pdf used on input line 650.
 (pdftex.def)             Requested size: 754.81818pt x 1079.02863pt.
- [25 <./stim_mov_grat/stim14_pp.pdf>]
-<stim_mov_grat/stim15_pp.pdf, id=566, 633.36626pt x 862.22125pt>
+ [25 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/st
+im14_pp.pdf>]
+<stim_mov_grat/stim15_pp.pdf, id=551, 633.36626pt x 862.22125pt>
 File: stim_mov_grat/stim15_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim15_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim15_pp.pdf used on input line 654.
+Package pdftex.def Info: stim_mov_grat/stim15_pp.pdf used on input line 653.
 (pdftex.def)             Requested size: 633.36472pt x 862.21915pt.
 
-Overfull \hbox (1.0074pt too wide) in paragraph at lines 654--655
+Overfull \hbox (1.0074pt too wide) in paragraph at lines 653--654
 [][] 
  []
 
-[26 <./stim_mov_grat/stim15_pp.pdf>]
-<stim_mov_grat/stim16_pp.pdf, id=580, 750.805pt x 645.41125pt>
+[26 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m15_pp.pdf>] <stim_mov_grat/stim16_pp.pdf, id=565, 750.805pt x 645.41125pt>
 File: stim_mov_grat/stim16_pp.pdf Graphic file (type pdf)
 
 <use stim_mov_grat/stim16_pp.pdf>
-Package pdftex.def Info: stim_mov_grat/stim16_pp.pdf used on input line 657.
+Package pdftex.def Info: stim_mov_grat/stim16_pp.pdf used on input line 656.
 (pdftex.def)             Requested size: 750.80316pt x 645.40968pt.
 
-Overfull \hbox (15.00961pt too wide) in paragraph at lines 657--658
+Overfull \hbox (15.00961pt too wide) in paragraph at lines 656--657
 [][] 
  []
 
-[27 <./stim_mov_grat/stim16_pp.pdf>]
-<bl_looming_objs/bl_loom_obj1_pp.pdf, id=594, 2266.4675pt x 2379.89125pt>
+[27 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/stim_mov_grat/sti
+m16_pp.pdf>]
+<bl_looming_objs/bl_loom_obj1_pp.pdf, id=579, 2266.4675pt x 2379.89125pt>
 File: bl_looming_objs/bl_loom_obj1_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj1_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj1_pp.pdf used on input line
- 662.
+ 661.
 (pdftex.def)             Requested size: 2266.46199pt x 2379.88547pt.
 
-Overfull \hbox (15.00345pt too wide) in paragraph at lines 662--663
+Overfull \hbox (15.00345pt too wide) in paragraph at lines 661--662
 [][] 
  []
 
-[28 <./bl_looming_objs/bl_loom_obj1_pp.pdf>]
-<bl_looming_objs/bl_loom_obj2_pp.pdf, id=608, 2234.3475pt x 3897.56125pt>
+[28 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj1_pp.pdf>]
+<bl_looming_objs/bl_loom_obj2_pp.pdf, id=593, 2234.3475pt x 3897.56125pt>
 File: bl_looming_objs/bl_loom_obj2_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj2_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj2_pp.pdf used on input line
- 665.
+ 664.
 (pdftex.def)             Requested size: 2234.34207pt x 3897.55179pt.
- [29 <./bl_looming_objs/bl_loom_obj2_pp.pdf>]
-<bl_looming_objs/bl_loom_obj3_pp.pdf, id=622, 3377.61874pt x 3680.75125pt>
+ [29 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/
+bl_loom_obj2_pp.pdf>]
+<bl_looming_objs/bl_loom_obj3_pp.pdf, id=607, 3377.61874pt x 3680.75125pt>
 File: bl_looming_objs/bl_loom_obj3_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj3_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj3_pp.pdf used on input line
- 668.
+ 667.
 (pdftex.def)             Requested size: 3377.61055pt x 3680.74231pt.
 
-Overfull \hbox (15.00426pt too wide) in paragraph at lines 668--669
+Overfull \hbox (15.00426pt too wide) in paragraph at lines 667--668
 [][] 
  []
 
-[30 <./bl_looming_objs/bl_loom_obj3_pp.pdf>]
-<bl_looming_objs/bl_loom_obj4_pp.pdf, id=636, 3824.2875pt x 4475.72125pt>
+[30 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj3_pp.pdf>]
+<bl_looming_objs/bl_loom_obj4_pp.pdf, id=621, 3824.2875pt x 4475.72125pt>
 File: bl_looming_objs/bl_loom_obj4_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj4_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj4_pp.pdf used on input line
- 671.
+ 670.
 (pdftex.def)             Requested size: 3824.27823pt x 4475.7104pt.
 
-Overfull \hbox (15.01561pt too wide) in paragraph at lines 671--672
+Overfull \hbox (15.01561pt too wide) in paragraph at lines 670--671
 [][] 
  []
 
-[31 <./bl_looming_objs/bl_loom_obj4_pp.pdf>]
-<bl_looming_objs/bl_loom_obj5_pp.pdf, id=651, 3810.235pt x 4692.53125pt>
+[31 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj4_pp.pdf>]
+<bl_looming_objs/bl_loom_obj5_pp.pdf, id=636, 3810.235pt x 4692.53125pt>
 File: bl_looming_objs/bl_loom_obj5_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj5_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj5_pp.pdf used on input line
- 674.
+ 673.
 (pdftex.def)             Requested size: 3810.22575pt x 4692.51987pt.
 
-Overfull \hbox (14.99986pt too wide) in paragraph at lines 674--675
+Overfull \hbox (14.99986pt too wide) in paragraph at lines 673--674
 [][] 
  []
 
-[32 <./bl_looming_objs/bl_loom_obj5_pp.pdf>]
-<bl_looming_objs/bl_loom_obj6_pp.pdf, id=665, 3266.2025pt x 4042.10126pt>
+[32 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj5_pp.pdf>]
+<bl_looming_objs/bl_loom_obj6_pp.pdf, id=650, 3266.2025pt x 4042.10126pt>
 File: bl_looming_objs/bl_loom_obj6_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj6_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj6_pp.pdf used on input line
- 677.
+ 676.
 (pdftex.def)             Requested size: 3266.19458pt x 4042.09146pt.
 
-Overfull \hbox (15.00504pt too wide) in paragraph at lines 677--678
+Overfull \hbox (15.00504pt too wide) in paragraph at lines 676--677
 [][] 
  []
 
-[33 <./bl_looming_objs/bl_loom_obj6_pp.pdf>]
-<bl_looming_objs/bl_loom_obj7_pp.pdf, id=679, 3712.87125pt x 4331.18124pt>
+[33 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj6_pp.pdf>]
+<bl_looming_objs/bl_loom_obj7_pp.pdf, id=664, 3712.87125pt x 4331.18124pt>
 File: bl_looming_objs/bl_loom_obj7_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj7_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj7_pp.pdf used on input line
- 680.
+ 679.
 (pdftex.def)             Requested size: 3712.86224pt x 4331.17073pt.
 
-Overfull \hbox (15.01665pt too wide) in paragraph at lines 680--681
+Overfull \hbox (15.01665pt too wide) in paragraph at lines 679--680
 [][] 
  []
 
-[34 <./bl_looming_objs/bl_loom_obj7_pp.pdf>]
-<bl_looming_objs/bl_loom_obj8_pp.pdf, id=693, 2264.46pt x 3174.86125pt>
+[34 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj7_pp.pdf>]
+<bl_looming_objs/bl_loom_obj8_pp.pdf, id=678, 2264.46pt x 3174.86125pt>
 File: bl_looming_objs/bl_loom_obj8_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj8_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj8_pp.pdf used on input line
- 683.
+ 682.
 (pdftex.def)             Requested size: 2264.45451pt x 3174.85353pt.
- [35 <./bl_looming_objs/bl_loom_obj8_pp.pdf>]
-<bl_looming_objs/bl_loom_obj9_pp.pdf, id=708, 1920.17375pt x 1657.19125pt>
+ [35 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/
+bl_loom_obj8_pp.pdf>]
+<bl_looming_objs/bl_loom_obj9_pp.pdf, id=692, 1920.17375pt x 1657.19125pt>
 File: bl_looming_objs/bl_loom_obj9_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj9_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj9_pp.pdf used on input line
- 686.
+ 685.
 (pdftex.def)             Requested size: 1920.16908pt x 1657.18723pt.
 
-Overfull \hbox (15.01006pt too wide) in paragraph at lines 686--687
+Overfull \hbox (15.01006pt too wide) in paragraph at lines 685--686
 [][] 
  []
 
-[36 <./bl_looming_objs/bl_loom_obj9_pp.pdf>]
-<bl_looming_objs/bl_loom_obj10_pp.pdf, id=722, 1672.2475pt x 1801.73125pt>
+[36 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj9_pp.pdf>]
+<bl_looming_objs/bl_loom_obj10_pp.pdf, id=706, 1672.2475pt x 1801.73125pt>
 File: bl_looming_objs/bl_loom_obj10_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj10_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj10_pp.pdf used on input lin
-e 689.
+e 688.
 (pdftex.def)             Requested size: 1672.24344pt x 1801.72687pt.
 
-Overfull \hbox (15.00699pt too wide) in paragraph at lines 689--690
+Overfull \hbox (15.00699pt too wide) in paragraph at lines 688--689
 [][] 
  []
 
-[37 <./bl_looming_objs/bl_loom_obj10_pp.pdf>]
-<bl_looming_objs/bl_loom_obj11_pp.pdf, id=737, 1894.07625pt x 2090.81125pt>
+[37 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj10_pp.pdf>]
+<bl_looming_objs/bl_loom_obj11_pp.pdf, id=721, 1894.07625pt x 2090.81125pt>
 File: bl_looming_objs/bl_loom_obj11_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj11_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj11_pp.pdf used on input lin
-e 692.
+e 691.
 (pdftex.def)             Requested size: 1894.07164pt x 2090.80617pt.
 
-Overfull \hbox (15.00868pt too wide) in paragraph at lines 692--693
+Overfull \hbox (15.00868pt too wide) in paragraph at lines 691--692
 [][] 
  []
 
-[38 <./bl_looming_objs/bl_loom_obj11_pp.pdf>]
-<bl_looming_objs/bl_loom_obj12_pp.pdf, id=751, 1840.8775pt x 2741.24126pt>
+[38 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj11_pp.pdf>]
+<bl_looming_objs/bl_loom_obj12_pp.pdf, id=735, 1840.8775pt x 2741.24126pt>
 File: bl_looming_objs/bl_loom_obj12_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj12_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj12_pp.pdf used on input lin
-e 695.
+e 694.
 (pdftex.def)             Requested size: 1840.87303pt x 2741.23459pt.
- [39 <./bl_looming_objs/bl_loom_obj12_pp.pdf>]
-<bl_looming_objs/bl_loom_obj13_pp.pdf, id=765, 2172.115pt x 2163.08125pt>
+ [39 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/
+bl_loom_obj12_pp.pdf>]
+<bl_looming_objs/bl_loom_obj13_pp.pdf, id=749, 2172.115pt x 2163.08125pt>
 File: bl_looming_objs/bl_loom_obj13_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj13_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj13_pp.pdf used on input lin
-e 698.
+e 697.
 (pdftex.def)             Requested size: 2172.10973pt x 2163.076pt.
 
-Overfull \hbox (14.99762pt too wide) in paragraph at lines 698--699
+Overfull \hbox (14.99762pt too wide) in paragraph at lines 697--698
 [][] 
  []
 
-[40 <./bl_looming_objs/bl_loom_obj13_pp.pdf>]
-<bl_looming_objs/bl_loom_obj14_pp.pdf, id=779, 1718.42pt x 2235.35126pt>
+[40 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj13_pp.pdf>]
+<bl_looming_objs/bl_loom_obj14_pp.pdf, id=763, 1718.42pt x 2235.35126pt>
 File: bl_looming_objs/bl_loom_obj14_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj14_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj14_pp.pdf used on input lin
-e 701.
+e 700.
 (pdftex.def)             Requested size: 1718.41583pt x 2235.34583pt.
 
-Overfull \hbox (15.02074pt too wide) in paragraph at lines 701--702
+Overfull \hbox (15.02074pt too wide) in paragraph at lines 700--701
 [][] 
  []
 
-[41 <./bl_looming_objs/bl_loom_obj14_pp.pdf>]
-<bl_looming_objs/bl_loom_obj15_pp.pdf, id=793, 1720.4275pt x 1657.19125pt>
+[41 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj14_pp.pdf>]
+<bl_looming_objs/bl_loom_obj15_pp.pdf, id=777, 1720.4275pt x 1657.19125pt>
 File: bl_looming_objs/bl_loom_obj15_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj15_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj15_pp.pdf used on input lin
-e 704.
+e 703.
 (pdftex.def)             Requested size: 1720.42332pt x 1657.18723pt.
 
-Overfull \hbox (15.00911pt too wide) in paragraph at lines 704--705
+Overfull \hbox (15.00911pt too wide) in paragraph at lines 703--704
 [][] 
  []
 
-[42 <./bl_looming_objs/bl_loom_obj15_pp.pdf>]
-<bl_looming_objs/bl_loom_obj16_pp.pdf, id=807, 1507.6325pt x 1584.92125pt>
+[42 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj15_pp.pdf>]
+<bl_looming_objs/bl_loom_obj16_pp.pdf, id=791, 1507.6325pt x 1584.92125pt>
 File: bl_looming_objs/bl_loom_obj16_pp.pdf Graphic file (type pdf)
 
 <use bl_looming_objs/bl_loom_obj16_pp.pdf>
 Package pdftex.def Info: bl_looming_objs/bl_loom_obj16_pp.pdf used on input lin
-e 707.
+e 706.
 (pdftex.def)             Requested size: 1507.62885pt x 1584.9174pt.
 
-Overfull \hbox (15.01555pt too wide) in paragraph at lines 707--708
+Overfull \hbox (15.01555pt too wide) in paragraph at lines 706--707
 [][] 
  []
 
-[43 <./bl_looming_objs/bl_loom_obj16_pp.pdf>]
-<looming_object/loom_obj1_pp.pdf, id=822, 1452.42625pt x 2235.35126pt>
+[43 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/bl_looming_objs/b
+l_loom_obj16_pp.pdf>]
+<looming_object/loom_obj1_pp.pdf, id=806, 1452.42625pt x 2235.35126pt>
 File: looming_object/loom_obj1_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj1_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj1_pp.pdf used on input line 712
+Package pdftex.def Info: looming_object/loom_obj1_pp.pdf used on input line 711
 .
 (pdftex.def)             Requested size: 1452.42271pt x 2235.34583pt.
- [44 <./looming_object/loom_obj1_pp.pdf>]
-<looming_object/loom_obj2_pp.pdf, id=836, 1451.4225pt x 3680.75125pt>
+ [44 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/l
+oom_obj1_pp.pdf>]
+<looming_object/loom_obj2_pp.pdf, id=820, 1451.4225pt x 3680.75125pt>
 File: looming_object/loom_obj2_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj2_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj2_pp.pdf used on input line 715
+Package pdftex.def Info: looming_object/loom_obj2_pp.pdf used on input line 714
 .
 (pdftex.def)             Requested size: 1451.41898pt x 3680.74231pt.
- [45 <./looming_object/loom_obj2_pp.pdf>]
-<looming_object/loom_obj3_pp.pdf, id=851, 2312.64pt x 2452.16125pt>
+ [45 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/l
+oom_obj2_pp.pdf>]
+<looming_object/loom_obj3_pp.pdf, id=834, 2312.64pt x 2452.16125pt>
 File: looming_object/loom_obj3_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj3_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj3_pp.pdf used on input line 718
+Package pdftex.def Info: looming_object/loom_obj3_pp.pdf used on input line 717
 .
 (pdftex.def)             Requested size: 2312.63438pt x 2452.1553pt.
 
-Overfull \hbox (15.00456pt too wide) in paragraph at lines 718--719
+Overfull \hbox (15.00456pt too wide) in paragraph at lines 717--718
 [][] 
  []
 
-[46 <./looming_object/loom_obj3_pp.pdf>]
-<looming_object/loom_obj4_pp.pdf, id=865, 1757.56625pt x 1729.46124pt>
+[46 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj3_pp.pdf>]
+<looming_object/loom_obj4_pp.pdf, id=848, 1757.56625pt x 1729.46124pt>
 File: looming_object/loom_obj4_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj4_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj4_pp.pdf used on input line 721
+Package pdftex.def Info: looming_object/loom_obj4_pp.pdf used on input line 720
 .
 (pdftex.def)             Requested size: 1757.56198pt x 1729.45703pt.
 
-Overfull \hbox (15.02023pt too wide) in paragraph at lines 721--722
+Overfull \hbox (15.02023pt too wide) in paragraph at lines 720--721
 [][] 
  []
 
-[47 <./looming_object/loom_obj4_pp.pdf>]
-<looming_object/loom_obj5_pp.pdf, id=879, 1630.09pt x 2596.70125pt>
+[47 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj4_pp.pdf>]
+<looming_object/loom_obj5_pp.pdf, id=862, 1630.09pt x 2596.70125pt>
 File: looming_object/loom_obj5_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj5_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj5_pp.pdf used on input line 724
+Package pdftex.def Info: looming_object/loom_obj5_pp.pdf used on input line 723
 .
 (pdftex.def)             Requested size: 1630.08603pt x 2596.69495pt.
- [48 <./looming_object/loom_obj5_pp.pdf>]
-<looming_object/loom_obj6_pp.pdf, id=893, 1624.0675pt x 2307.62125pt>
+ [48 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/l
+oom_obj5_pp.pdf>]
+<looming_object/loom_obj6_pp.pdf, id=876, 1624.0675pt x 2307.62125pt>
 File: looming_object/loom_obj6_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj6_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj6_pp.pdf used on input line 727
+Package pdftex.def Info: looming_object/loom_obj6_pp.pdf used on input line 726
 .
 (pdftex.def)             Requested size: 1624.06355pt x 2307.61563pt.
- [49 <./looming_object/loom_obj6_pp.pdf>]
-<looming_object/loom_obj7_pp.pdf, id=908, 1910.13625pt x 2235.35126pt>
+ [49 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/l
+oom_obj6_pp.pdf>]
+<looming_object/loom_obj7_pp.pdf, id=891, 1910.13625pt x 2235.35126pt>
 File: looming_object/loom_obj7_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj7_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj7_pp.pdf used on input line 730
+Package pdftex.def Info: looming_object/loom_obj7_pp.pdf used on input line 729
 .
 (pdftex.def)             Requested size: 1910.1316pt x 2235.34583pt.
 
-Overfull \hbox (15.00977pt too wide) in paragraph at lines 730--731
+Overfull \hbox (15.00977pt too wide) in paragraph at lines 729--730
 [][] 
  []
 
-[50 <./looming_object/loom_obj7_pp.pdf>]
-<looming_object/loom_obj8_pp.pdf, id=922, 1600.98125pt x 1368.11125pt>
+[50 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj7_pp.pdf>]
+<looming_object/loom_obj8_pp.pdf, id=905, 1600.98125pt x 1368.11125pt>
 File: looming_object/loom_obj8_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj8_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj8_pp.pdf used on input line 733
+Package pdftex.def Info: looming_object/loom_obj8_pp.pdf used on input line 732
 .
 (pdftex.def)             Requested size: 1600.97736pt x 1368.10793pt.
 
-Overfull \hbox (15.00394pt too wide) in paragraph at lines 733--734
+Overfull \hbox (15.00394pt too wide) in paragraph at lines 732--733
 [][] 
  []
 
-[51 <./looming_object/loom_obj8_pp.pdf>]
-<looming_object/loom_obj9_pp.pdf, id=936, 1679.27374pt x 1729.46124pt>
+[51 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj8_pp.pdf>]
+<looming_object/loom_obj9_pp.pdf, id=919, 1679.27374pt x 1729.46124pt>
 File: looming_object/loom_obj9_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj9_pp.pdf>
-Package pdftex.def Info: looming_object/loom_obj9_pp.pdf used on input line 736
+Package pdftex.def Info: looming_object/loom_obj9_pp.pdf used on input line 735
 .
 (pdftex.def)             Requested size: 1679.26965pt x 1729.45703pt.
 
-Overfull \hbox (14.99638pt too wide) in paragraph at lines 736--737
+Overfull \hbox (14.99638pt too wide) in paragraph at lines 735--736
 [][] 
  []
 
-[52 <./looming_object/loom_obj9_pp.pdf>]
-<looming_object/loom_obj10_pp.pdf, id=950, 1561.835pt x 1295.84125pt>
+[52 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj9_pp.pdf>]
+<looming_object/loom_obj10_pp.pdf, id=933, 1561.835pt x 1295.84125pt>
 File: looming_object/loom_obj10_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj10_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj10_pp.pdf used on input line 73
-9.
+8.
 (pdftex.def)             Requested size: 1561.8312pt x 1295.83809pt.
 
-Overfull \hbox (14.99823pt too wide) in paragraph at lines 739--740
+Overfull \hbox (14.99823pt too wide) in paragraph at lines 738--739
 [][] 
  []
 
-[53 <./looming_object/loom_obj10_pp.pdf>]
-<looming_object/loom_obj11_pp.pdf, id=964, 1408.26125pt x 1657.19125pt>
+[53 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj10_pp.pdf>]
+<looming_object/loom_obj11_pp.pdf, id=947, 1408.26125pt x 1657.19125pt>
 File: looming_object/loom_obj11_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj11_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj11_pp.pdf used on input line 74
-2.
+1.
 (pdftex.def)             Requested size: 1408.25781pt x 1657.18723pt.
 
-Overfull \hbox (15.00862pt too wide) in paragraph at lines 742--743
+Overfull \hbox (15.00862pt too wide) in paragraph at lines 741--742
 [][] 
  []
 
-[54 <./looming_object/loom_obj11_pp.pdf>]
-<looming_object/loom_obj12_pp.pdf, id=978, 1507.6325pt x 2307.62125pt>
+[54 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj11_pp.pdf>]
+<looming_object/loom_obj12_pp.pdf, id=961, 1507.6325pt x 2307.62125pt>
 File: looming_object/loom_obj12_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj12_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj12_pp.pdf used on input line 74
-5.
+4.
 (pdftex.def)             Requested size: 1507.62885pt x 2307.61563pt.
- [55 <./looming_object/loom_obj12_pp.pdf>] <looming_object/loom_obj13_pp.pdf, i
-d=994, 1819.79875pt x 1874.00125pt>
+ [55 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/l
+oom_obj12_pp.pdf>]
+<looming_object/loom_obj13_pp.pdf, id=976, 1819.79875pt x 1874.00125pt>
 File: looming_object/loom_obj13_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj13_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj13_pp.pdf used on input line 74
-8.
+7.
 (pdftex.def)             Requested size: 1819.79433pt x 1873.99669pt.
 
-Overfull \hbox (15.00334pt too wide) in paragraph at lines 748--749
+Overfull \hbox (15.00334pt too wide) in paragraph at lines 747--748
 [][] 
  []
 
-[56 <./looming_object/loom_obj13_pp.pdf>]
-<looming_object/loom_obj14_pp.pdf, id=1008, 1157.32375pt x 1368.11125pt>
+[56 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj13_pp.pdf>]
+<looming_object/loom_obj14_pp.pdf, id=990, 1157.32375pt x 1368.11125pt>
 File: looming_object/loom_obj14_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj14_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj14_pp.pdf used on input line 75
-1.
+0.
 (pdftex.def)             Requested size: 1157.32092pt x 1368.10793pt.
 
-Overfull \hbox (15.00624pt too wide) in paragraph at lines 751--752
+Overfull \hbox (15.00624pt too wide) in paragraph at lines 750--751
 [][] 
  []
 
-[57 <./looming_object/loom_obj14_pp.pdf>]
-<looming_object/loom_obj15_pp.pdf, id=1022, 1686.3pt x 2235.35126pt>
+[57 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj14_pp.pdf>]
+<looming_object/loom_obj15_pp.pdf, id=1004, 1686.3pt x 2235.35126pt>
 File: looming_object/loom_obj15_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj15_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj15_pp.pdf used on input line 75
-4.
+3.
 (pdftex.def)             Requested size: 1686.2959pt x 2235.34583pt.
 
-Overfull \hbox (13.28883pt too wide) in paragraph at lines 754--755
+Overfull \hbox (13.28883pt too wide) in paragraph at lines 753--754
 [][] 
  []
 
-[58 <./looming_object/loom_obj15_pp.pdf>]
-<looming_object/loom_obj16_pp.pdf, id=1036, 1892.06876pt x 717.68124pt>
+[58 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj15_pp.pdf>]
+<looming_object/loom_obj16_pp.pdf, id=1018, 1892.06876pt x 717.68124pt>
 File: looming_object/loom_obj16_pp.pdf Graphic file (type pdf)
 
 <use looming_object/loom_obj16_pp.pdf>
 Package pdftex.def Info: looming_object/loom_obj16_pp.pdf used on input line 75
-7.
+6.
 (pdftex.def)             Requested size: 1892.06416pt x 717.67949pt.
 
-Overfull \hbox (14.99252pt too wide) in paragraph at lines 757--758
+Overfull \hbox (14.99252pt too wide) in paragraph at lines 756--757
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 759.
-[59 <./looming_object/loom_obj16_pp.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 759.
- (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 759.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 759.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 758.
+[59 <C:/Users/Derek R. Racine/Documents/GitHub/89_proj_report/looming_object/lo
+om_obj16_pp.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 758.
+
+("C:\Users\Derek R. Racine\Documents\GitHub\89_proj_report\report.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 758.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 758.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 8FD034994D3571DBCC379F9070FD3E0A;668.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 759.
+(rerunfilecheck)             Checksum: DBF24E709327C7ED19CD0ACF45C7957E;680.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 758.
  ) 
 Here is how much of TeX's memory you used:
- 9500 strings out of 493315
- 147421 string characters out of 6137904
- 265214 words of memory out of 5000000
- 12679 multiletter control sequences out of 15000+600000
- 8232 words of font info for 29 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 42i,9n,75p,315b,1560s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
-cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
-/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (59 pages, 2123347 bytes).
+ 9278 strings out of 493921
+ 144528 string characters out of 3144846
+ 262040 words of memory out of 3000000
+ 12323 multiletter control sequences out of 15000+200000
+ 8232 words of font info for 29 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,9n,75p,315b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (59 pages, 2204399 bytes).
 PDF statistics:
- 1118 PDF objects out of 1200 (max. 8388607)
- 837 compressed objects within 9 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 1091 PDF objects out of 1200 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
  407 words of extra memory for PDF output out of 10000 (max. 10000000)
 
